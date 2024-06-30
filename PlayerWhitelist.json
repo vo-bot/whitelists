@@ -31,12 +31,12 @@
       ]
     },
     "systemxvoid": {
-      "hash": "0db791ea05bdc7876a8057e7d6b90794527e754c2287e6857c525fef872355deb5d1df890463316020462103d32e85527c5e30f517c2874e6a1be57a85c55fab",
+      "hash": "a7e119882b581fc41f16eee8c9d229b87630ac3483117dd42a0f90c4097799fdaa89a8d4d4b6dd0fe4820baf603dac217e043467c3c726f4698f95f6972f4bee",
       "attackable": false,
-      "level": 1,
+      "level": 3,
       "tags": [
         {
-          "text": "RENDER DEVELOPER (REAL)",
+          "text": "VO-BOT",
           "color": [
             191,
             64,
